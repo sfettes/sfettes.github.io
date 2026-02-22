@@ -24,10 +24,10 @@ cv:
   sections:
     Education:
       - institution: University of Waterloo
-        location: Waterloo, Ontario, Canada
+        location: Waterloo, Ontario
         url: https://cs.uwaterloo.ca/
         area: Computer Science
-        studyType: Bachelor
+        studyType: Bachelor of Computer Science (BCS)
         start_date: 2021
         end_date: 2026
         score: ""
@@ -38,24 +38,24 @@ cv:
       - company: Amazon
         position: Software Development Engineer Intern
         location: Vancouver, BC
-        start_date: June 2025
-        end_date: August 2025
+        start_date: 2025
+        end_date: 2025
         summary: Built scalable backend solutions for Amazon's International Technology team. 
         highlights:
 
       - company: theScore
         position: Data Engineer Intern
         location: Toronto, ON
-        start_date: January 2025
-        end_date: April 2025
+        start_date: 2025
+        end_date: 2025
         summary: Built microservices with Python and Kafka on GCP for real-time fraud detection 
         highlights:
 
       - company: Questrade
         position: Data Engineer Intern
         location: Toronto, ON
-        start_date: May 2024
-        end_date: August 2024
+        start_date: 2024
+        end_date: 2024
 
     Skills:
       - name: 
