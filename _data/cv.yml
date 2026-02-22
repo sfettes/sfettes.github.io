@@ -49,19 +49,34 @@ cv:
         location: Toronto, ON
         start_date: 2024
         end_date: 2024
+        summary: Worked on data pipelines in Python and SQL for financial analytics and reporting. 
+        highlights: 
+
+      - company: Environment and Climate Change Canada
+        position: Policy Analyst Intern
+        location: Gatineau, QC 
+        start_date: 2023
+        end_date: 2023
+        summary: Created data analyses with PowerBI to guide national policy on electric vehicle regulations
 
     Skills:
-      - name: 
+      - name: Programming Languages
         level:
         icon: fa-solid fa-hashtag
-        keywords: ""
+        keywords: "Python, Java, Kotlin, Scala, C++, C, SQL, Bash"
+      - name: Tools
+        icon: fa-solid fa-hashtag
+        keywords: "Docker, Kubernetes, GCP, AWS, Linux, Git"
 
     Languages:
       - name: English
-        summary: "Native speaker"
+        summary: "Native"
 
       - name: French
         summary: "Fluent"
+
+      - name: Japanese
+        summary: "Intermediate"
 
     Interests:
       - name: Computer Science
