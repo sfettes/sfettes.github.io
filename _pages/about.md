@@ -24,3 +24,5 @@ latest_posts:
 ---
 
 I'm a 4th year Computer Science student at the University of Waterloo, and an incoming Master's student at KAIST AI, supervised by [Hyunwoo Kim](https://hyunw.kim/). 
+
+I'm passionate about navigating the social challenges of technology through the lens of responsible innovation. My primary research interest is improving the ability of models to reason about privacy and Contextual Integrity. By bridging the gap between technical capability and social responsibility, I hope to contribute to building models that are inherently trustworthy, private, and reliable.
