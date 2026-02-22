@@ -1,10 +1,10 @@
 cv:
   name: Sameer Fettes
-  label: 
+  label:
   email: sfettes@uwaterloo.ca
   location: Toronto, ON
   image: ""
-  summary: 
+  summary:
 
   social_networks:
     - network: X
@@ -33,7 +33,7 @@ cv:
         location: Vancouver, BC
         start_date: 2025
         end_date: 2025
-        summary: Built scalable backend solutions for Amazon's International Technology team. 
+        summary: Built scalable backend solutions for Amazon's International Technology team.
         highlights:
 
       - company: theScore
@@ -41,7 +41,7 @@ cv:
         location: Toronto, ON
         start_date: 2025
         end_date: 2025
-        summary: Built microservices with Python and Kafka on GCP for real-time fraud detection 
+        summary: Built microservices with Python and Kafka on GCP for real-time fraud detection
         highlights:
 
       - company: Questrade
@@ -49,12 +49,12 @@ cv:
         location: Toronto, ON
         start_date: 2024
         end_date: 2024
-        summary: Worked on data pipelines in Python and SQL for financial analytics and reporting. 
-        highlights: 
+        summary: Worked on data pipelines in Python and SQL for financial analytics and reporting.
+        highlights:
 
       - company: Environment and Climate Change Canada
         position: Policy Analyst Intern
-        location: Gatineau, QC 
+        location: Gatineau, QC
         start_date: 2023
         end_date: 2023
         summary: Created data analyses with PowerBI to guide national policy on electric vehicle regulations
