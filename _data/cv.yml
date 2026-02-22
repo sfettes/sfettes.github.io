@@ -1,7 +1,7 @@
 cv:
   name: Sameer Fettes
-  label: Computer Science Student
-  email: 
+  label: 
+  email: sfettes@uwaterloo.ca
   location: Toronto, ON
   image: ""
   summary: 
@@ -13,13 +13,6 @@ cv:
       username: sfettes
     - network: LinkedIn
       username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
 
   sections:
     Education:
